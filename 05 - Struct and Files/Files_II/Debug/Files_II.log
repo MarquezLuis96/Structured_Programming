@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\lamc\Documents\00 - Escritorio\03 -  Courses\Structured_Programming\05 - Struct and Files\Files_II\Source.cpp(191,47): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\lamc\Documents\00 - Escritorio\03 -  Courses\Structured_Programming\05 - Struct and Files\Files_II\Source.cpp(191,47): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\lamc\Documents\00 - Escritorio\03 -  Courses\Structured_Programming\05 - Struct and Files\Files_II\Source.cpp(203,12): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\lamc\Documents\00 - Escritorio\03 -  Courses\Structured_Programming\05 - Struct and Files\Files_II\Source.cpp(203,12): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\lamc\Documents\00 - Escritorio\03 -  Courses\Structured_Programming\05 - Struct and Files\Files_II\Source.cpp(203,12): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%s'
+  Files_II.vcxproj -> C:\Users\lamc\Documents\00 - Escritorio\03 -  Courses\Structured_Programming\05 - Struct and Files\Files_II\Debug\Files_II.exe
