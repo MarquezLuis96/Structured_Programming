@@ -1,0 +1,6 @@
+#Visual Studio Community Files
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
+/Debug
+/.vs
